@@ -27,8 +27,7 @@
 ```python lesions.py --mode train```
 
 ## Predict
-```python lesions.py --mode predict --image isic2018/ISIC2018_Task1-2_Training_Input/ISIC_0000000.jpg
-```
+```python lesions.py --mode predict --image isic2018/ISIC2018_Task1-2_Training_Input/ISIC_0000000.jpg```
 
 **OUTPUT 1:**\
 ![Alt text](readme/ISIC_0000000.png?raw=true "Title")
