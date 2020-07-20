@@ -28,11 +28,14 @@
 
 ## Predict
 ```python lesions.py --mode predict --image\
- isic2018/ISIC2018_Task1-2_Training_Input/ISIC_0000000.jpg```
+ isic2018/ISIC2018_Task1-2_Training_Input/ISIC_0000000.jpg
+ ```
 
 OUTPUT 1:\
 ![Alt text](readme/ISIC_0000000.png?raw=true "Title")
+
 OUTPUT 2:\
-![Alt text](readme/ISIC_0000000.png?raw=true "Title")
+![Alt text](readme/ISIC_0000001.png?raw=true "Title")
+
 OUTPUT 3:\
-![Alt text](readme/ISIC_0000000.png?raw=true "Title")
+![Alt text](readme/ISIC_0000002.png?raw=true "Title")
